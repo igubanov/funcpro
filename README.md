@@ -2,7 +2,7 @@
 
 Functional Programming Course Materials by [Dmitry Soshnikov](http://soshnikov.com)
 
-To run the code, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/shwars/funcpro/master)
+To run the code, [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/igubanov/funcpro/main)
 
 Related Links:
 * [Course Home Page](https://soshnikov.com/courses/funcpro/)
